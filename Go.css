@@ -1,0 +1,14 @@
+body{
+
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrmSgty4gXE2bK4x2t1L68J5Yt8fYL-V5yn0NCKMoU8l5Kpn0);
+	background-size: cover;
+}
+
+
+.form-inline{
+	background-color: rgb(58, 22, 60);
+}
+
+.btn-primary {
+	text-align: center;
+}
